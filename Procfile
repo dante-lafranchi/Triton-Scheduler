@@ -1,0 +1,1 @@
+web gunicorn backend.tritonscheduler.wsgi --log-file -

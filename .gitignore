@@ -1,0 +1,9 @@
+.env
+node_moudles/
+staticfiles/
+package-lock.json
+build/
+.DS_Store
+**/migrations/
+chromedriver/
+Pipfile.lock

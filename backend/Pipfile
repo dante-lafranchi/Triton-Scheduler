@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+psycopg2 = "*"
+django = "*"
+django-cors-headers = "*"
+djangorestframework = "*"
+apscheduler = "*"
+celery = "*"
+pytz = "*"
+requests = "*"
+selenium = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
+django-redis = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
